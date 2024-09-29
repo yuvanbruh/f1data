@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "i": "^0.3.7",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7",
+    "tailwindcss": "^3.4.13"
+  },
+  "name": "f1data",
+  "version": "1.0.0",
+  "main": "f1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
